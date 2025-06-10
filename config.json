@@ -1,0 +1,7 @@
+{
+  "telegram_token": "7590125187:AAGMKE603FEfxFcPW-oglOyWHrLg3MRj2_E",
+  "rpc_url": "https://base-mainnet.g.alchemy.com/v2/4A4igROZFDGQjvMFm0aon",
+  "min_wallets": 3,
+  "check_interval_sec": 30,
+  "telegram_chat_id": 6829491988
+}
